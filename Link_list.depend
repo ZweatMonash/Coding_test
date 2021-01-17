@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1610902827 source:c:\users\zwe\desktop\c\hackerrank\link_list\main.cpp
+	<iostream>
+	<string.h>
+	<sstream>
+	"LinkedList.h"
+	"Fifo.h"
+
+1610899650 c:\users\zwe\desktop\c\hackerrank\link_list\linkedlist.h
+	<string>
+	"Node.h"
+
+1610888778 c:\users\zwe\desktop\c\hackerrank\link_list\node.h
+
+1610903024 source:c:\users\zwe\desktop\c\hackerrank\link_list\linkedlist.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"LinkedList.h"
+	"Node.h"
+
+1610897372 c:\users\zwe\desktop\c\hackerrank\link_list\fifo.h
+	"LinkedList.h"
+
+1610898765 source:c:\users\zwe\desktop\c\hackerrank\link_list\fifo.cpp
+	<iostream>
+	"Fifo.h"
+	"LinkedList.h"
+	"Node.h"
+
